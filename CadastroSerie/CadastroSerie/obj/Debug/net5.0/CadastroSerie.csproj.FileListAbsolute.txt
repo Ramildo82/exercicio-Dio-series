@@ -1,0 +1,16 @@
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.csproj.AssemblyReference.cache
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.AssemblyInfoInputs.cache
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.AssemblyInfo.cs
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.csproj.CoreCompileInputs.cache
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.exe
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.deps.json
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.runtimeconfig.json
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.runtimeconfig.dev.json
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.dll
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\ref\CadastroSerie.dll
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\bin\Debug\net5.0\CadastroSerie.pdb
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.dll
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\ref\CadastroSerie.dll
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.pdb
+C:\Users\ramil\source\repos\CadastroSerie\CadastroSerie\obj\Debug\net5.0\CadastroSerie.genruntimeconfig.cache
